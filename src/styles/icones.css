@@ -1,0 +1,42 @@
+@media screen and (min-width: 1280px ) {
+ #icones img{
+ width: 12%;
+ margin-top: -2%;
+ margin-left: 18%;
+ }
+ }
+ 
+ @media screen and (max-width: 1279px ) {
+ #icones img{
+ width: 16%;
+ margin-top: -2%;
+ margin-left: 18%;
+ }
+ }
+ 
+ @media screen and (max-width: 778px){
+   #icones {
+   position:relative;
+   top: 130%;
+   left: 2%;
+   }
+   }
+   
+   @media screen and (min-width: 370px){
+   #icones {
+     position:relative;
+     top: 85%;
+     left: 5%;
+   }
+   }
+   
+   @media screen and (min-width: 450px){
+   #icones img{
+   width: 10%;
+   }
+   }
+   @media screen and (max-width: 777px){
+   #icones img{
+   width: 60%;
+   }
+   }

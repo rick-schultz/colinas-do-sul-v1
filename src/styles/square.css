@@ -1,0 +1,36 @@
+#square img {
+padding: 10%;
+}
+
+ #square{
+    background-color: white;
+  box-shadow: inset 0px 10px 10px #0000004F, 0px 3px 6px #0000009C;
+  border: 1px solid #707070;
+  border-radius: 0px 46px;
+  opacity: 1;
+ }
+
+ @media screen and (min-width:768px) {
+  #square {
+   width: 40%;
+   position:relative;
+top: 10%;
+left: 5%;
+  }
+ }
+ @media screen and (max-width:767px) {
+  #square {
+width: 70%;
+position:relative;
+top: 10%;
+left: 5%;
+  }
+ }
+ @media screen and (min-width: 1275px){
+  #square {
+   width: 40%;
+   position:relative;
+   top: 10%;
+   left: 5%;
+     }
+    }

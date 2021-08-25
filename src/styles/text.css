@@ -1,0 +1,48 @@
+@media screen and (max-width: 338px){
+  #text {
+    font-size: 1.3rem;
+    position:relative;
+    top: -95%;
+    left: 5%;
+  }
+  }
+@media screen and (min-width: 338px){
+ #text {
+ font-size: 1.4rem;
+ position:relative;
+ top: -95%;
+ left: 5%;
+ inline-size: 70%;
+ overflow-wrap: break-word;
+ opacity: 1;
+ margin: auto;
+ }
+ }
+@media screen and (min-width: 487px){
+ #text {
+ inline-size: 65%;
+ }
+ }
+@media screen and (min-width: 523px){
+ #text {
+ inline-size: 55%;
+ }
+ }
+@media screen and (min-width: 768px){
+ #text {
+  font-size: 1.8rem;
+  position:relative;
+  top: -30%;
+  left: -8%;
+  inline-size: 40%;
+  overflow-wrap: break-word;
+  opacity: 1;
+ }
+ }
+ @media screen and (min-width: 1275px){
+  #text {
+    position:relative;
+    top: -20%;
+  inline-size: 30%;
+  }
+}

@@ -1,0 +1,13 @@
+#casal{
+ width: 40%;
+ opacity: 1;
+ position:relative;
+ top: 10%;
+ left: 70%;
+ z-index:-1 
+ }
+ @media screen and (max-width: 777px){
+  #casal {
+  visibility: hidden;
+  }
+  }

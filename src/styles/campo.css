@@ -1,0 +1,17 @@
+@media screen and (max-width: 767px){
+ #campo{
+  width: 80%;
+ opacity: 1;
+ position:relative;
+ top: -9rem;
+ left: 15%;
+ z-index:-1 
+ }}
+@media screen and (min-width: 768px){
+ #campo{
+ opacity: 1;
+ position:relative;
+ top: -8rem;
+ left: 30%;
+ z-index:-1 
+ }}

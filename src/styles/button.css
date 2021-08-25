@@ -1,0 +1,44 @@
+@media screen and (min-width: 1279px){
+ #button {
+ position:relative;
+ top: 97%;
+ left: 78%;
+ }
+ }
+ 
+ @media screen and (max-width: 1278px){
+ #button {
+ position:relative;
+ top: 91%;
+ left: 77.5%;
+ }
+ }
+ 
+ @media screen and (max-width: 1022px){
+ #button {
+ position:relative;
+ top: 81%;
+ left: 78%;
+ }
+ }
+ 
+ @media screen and (min-width: 1279px){
+ #button button {
+ color: #378A2B;
+ font-weight: bold;
+ font-size:20px
+ }}
+ 
+ @media screen and (max-width: 1278px){
+ #button button {
+ color: #378A2B;
+ font-weight: bold;
+ font-size:17px
+ }}
+ 
+ @media screen and (max-width: 1022px){
+ #button button {
+ color: #378A2B;
+ font-weight: bold;
+ font-size:12px
+ }}

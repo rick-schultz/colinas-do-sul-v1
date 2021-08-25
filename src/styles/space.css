@@ -1,0 +1,15 @@
+@media screen and (min-width: 778px){
+ #space{
+   height: 100px;
+   }
+}
+@media screen and (max-width: 777px){
+ #space{
+   height: 1100px;
+   }
+}
+@media screen and (min-width: 370px){
+ #space{
+   height:550px;
+   }
+}

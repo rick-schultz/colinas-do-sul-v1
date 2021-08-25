@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+
+.font-family-karla {
+font-family: karla;
+}
+
+body {
+background-image: url("../assets/bg-gramado.png") ;
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+#logo-itude{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#square img {
+ padding: 10%;
+ }
+ 
+  #square{
+     background-color: white;
+   box-shadow: inset 0px 10px 10px #0000004F, 0px 3px 6px #0000009C;
+   border: 1px solid #707070;
+   border-radius: 0px 46px;
+   opacity: 1;
+  }
+
+  nav a img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #campo {
+    position: relative;
+    z-index: -1;
+  }
+
+  @media screen and (max-width:639px) {
+    #casal{
+      display: none 
+    }
+  }
